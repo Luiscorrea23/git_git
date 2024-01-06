@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "date": "2019-05-30T17:30:31.098Z",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "date": "2019-05-30T18:39:34.091Z",
+      "important": false
+    },
+    {
+      "content": "note",
+      "date": "2023-12-05T14:29:58.217Z",
+      "important": false,
+      "id": 3
+    },
+    {
+      "content": "Luis Correa",
+      "date": "2023-12-04T21:20:28.518Z",
+      "important": false,
+      "id": 160
+    },
+    {
+      "content": "React is a best biblioteca",
+      "date": "2023-12-04T21:23:40.365Z",
+      "important": false,
+      "id": 161
+    },
+    {
+      "content": "app for js",
+      "date": "2023-12-05T00:06:18.861Z",
+      "important": false,
+      "id": 162
+    },
+    {
+      "content": "js is a great lenguaje",
+      "date": "2023-12-05T14:31:26.733Z",
+      "important": false,
+      "id": 164
+    }
+  ]
+}
